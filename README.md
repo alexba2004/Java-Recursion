@@ -33,5 +33,5 @@ If you have examples, exercises, or resources related to recursion in Java that 
 
 If you have questions, suggestions, or comments, don't hesitate to get in touch with me. You can reach me at my social media.
 
-
+## Farewell
 I hope you find this repository useful for learning and practicing recursion in Java. Enjoy exploring and coding!
